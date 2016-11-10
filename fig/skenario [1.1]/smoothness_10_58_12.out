@@ -1,0 +1,52 @@
+# MetaData
+# DO_RECORD_ROOT: true
+# DO_RECORD_LHAND: true
+# DO_RECORD_RHAND: true
+# DO_RECORD_LFOOT: true
+# DO_RECORD_RFOOT: true
+# DO_RECORD_LHUMERUS: true
+# DO_RECORD_RHUMERUS: true
+# DO_RECORD_LFEMUR: true
+# DO_RECORD_RFEMUR: true
+# DO_RECORD_LOWERBACK: true
+# DO_RECORD_THORAX: true
+# DO_RECORD_LOWERNECK: true
+# DO_RECORD_UPPERNECK: true
+# 
+# rotXs std: 0.017216735
+# rotYs std: 0.013476352
+# rotZs std: 0.011665459
+# lhandRX_std: 0.04156944
+# lhandRZ_std: 0.08373073
+# lhandRX_std: 0.0047253137
+# lhandRZ_std: 0.009310891
+# lfootRX_std: 0.06103825
+# lfootRZ_std: 0.03657911
+# rfootRX_std: 0.07362546
+# rfootRZ_std: 0.061218437
+# lhumerusRX_std: 0.08189534
+# lhumerusRY_std: 0.015051737
+# lhumerusRZ_std: 0.13138331
+# rhumerusRX_std: 0.056487557
+# rhumerusRY_std: 0.040697575
+# rhumerusRZ_std: 0.12433446
+# lhumerusRX_std: 0.056739785
+# lhumerusRY_std: 0.0145843085
+# lhumerusRZ_std: 0.020141857
+# rfemurRX_std: 0.063750125
+# rfemurRY_std: 0.016874183
+# rfemurRZ_std: 0.022605378
+# lowerbackRX_std: 0.00862054
+# lowerbackRY_std: 0.0045059095
+# lowerbackRZ_std: 0.012652543
+# thoraxRX_std: 0.0035056246
+# thoraxRY_std: 0.0032215086
+# thoraxRZ_std: 0.008064894
+# lowerneckRX_std: 0.0035056246
+# lowerneckRY_std: 0.0032215086
+# lowerneckRZ_std: 0.008064894
+# upperneckRX_std: 0.0582608
+# upperneckRY_std: 0.005964348
+# upperneckRZ_std: 0.0064167995
+# total_smooth_mean: 0.034337942680234414
+# total_smooth_sd: 0.03499283535807148

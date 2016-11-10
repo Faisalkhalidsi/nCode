@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="commons-lang3-3.3.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang3-3.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-math3-3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jmathplot.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/j3dcore.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/j3dutils.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/vecmath.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/jmathplot.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,4 @@
+Wed Nov 09 10:05:37 ICT 2016 : FINE : demo -:- setup -:- Start the program!.... is net null?: true
+Wed Nov 09 10:05:37 ICT 2016 : FINE : demo -:- setup -:- amcBase: file:/C:/Users/sourceMyLab/Documents/Tesis/nCode/tdbnDemo/out/production/tdbnDemo/data/05_10.amc
+Wed Nov 09 10:05:37 ICT 2016 : FINE : demo -:- setup -:- rbmTrainEpoch: 250, crbmTrainEpoch: 100
+Wed Nov 09 10:05:37 ICT 2016 : FINE : demo -:- setup -:- testMode: false

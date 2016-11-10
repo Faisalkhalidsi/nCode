@@ -1,0 +1,192 @@
+Wed Nov 09 10:05:38 ICT 2016 : FINE : TDBN -:- <init> -:- files.size():8
+Wed Nov 09 10:05:40 ICT 2016 : FINE : TDBN -:- <init> -:- nBodyParts: 5
+Wed Nov 09 10:05:40 ICT 2016 : FINE : TDBN -:- <init> -:- Initialize RBMs...!
+Wed Nov 09 10:05:40 ICT 2016 : FINE : TDBN -:- <init> -:- Initialize CRBM...!
+Wed Nov 09 10:05:41 ICT 2016 : FINE : TDBN -:- train -:- epoch: 0, energy: -10003.682220794988
+Wed Nov 09 10:05:43 ICT 2016 : FINE : TDBN -:- train -:- epoch: 2, energy: -13303.330980898134
+Wed Nov 09 10:05:45 ICT 2016 : FINE : TDBN -:- train -:- epoch: 4, energy: -15487.487092242694
+Wed Nov 09 10:05:47 ICT 2016 : FINE : TDBN -:- train -:- epoch: 6, energy: -29433.456753515064
+Wed Nov 09 10:05:49 ICT 2016 : FINE : TDBN -:- train -:- epoch: 8, energy: -37141.24090410833
+Wed Nov 09 10:05:51 ICT 2016 : FINE : TDBN -:- train -:- epoch: 10, energy: -37466.202263269995
+Wed Nov 09 10:05:53 ICT 2016 : FINE : TDBN -:- train -:- epoch: 12, energy: -39929.16052150187
+Wed Nov 09 10:05:55 ICT 2016 : FINE : TDBN -:- train -:- epoch: 14, energy: -40771.67142845931
+Wed Nov 09 10:05:56 ICT 2016 : FINE : TDBN -:- train -:- epoch: 16, energy: -38685.15876390571
+Wed Nov 09 10:05:58 ICT 2016 : FINE : TDBN -:- train -:- epoch: 18, energy: -40489.17722158374
+Wed Nov 09 10:06:00 ICT 2016 : FINE : TDBN -:- train -:- epoch: 20, energy: -42481.91363708902
+Wed Nov 09 10:06:02 ICT 2016 : FINE : TDBN -:- train -:- epoch: 22, energy: -41879.33015772602
+Wed Nov 09 10:06:04 ICT 2016 : FINE : TDBN -:- train -:- epoch: 24, energy: -43116.73869850481
+Wed Nov 09 10:06:07 ICT 2016 : FINE : TDBN -:- train -:- epoch: 26, energy: -43550.3498435863
+Wed Nov 09 10:06:08 ICT 2016 : FINE : TDBN -:- train -:- epoch: 28, energy: -45427.535231835245
+Wed Nov 09 10:06:10 ICT 2016 : FINE : TDBN -:- train -:- epoch: 30, energy: -46188.88547243472
+Wed Nov 09 10:06:13 ICT 2016 : FINE : TDBN -:- train -:- epoch: 32, energy: -47936.262766910164
+Wed Nov 09 10:06:15 ICT 2016 : FINE : TDBN -:- train -:- epoch: 34, energy: -48558.08571902271
+Wed Nov 09 10:06:17 ICT 2016 : FINE : TDBN -:- train -:- epoch: 36, energy: -48933.21523848418
+Wed Nov 09 10:06:19 ICT 2016 : FINE : TDBN -:- train -:- epoch: 38, energy: -47682.93015139579
+Wed Nov 09 10:06:21 ICT 2016 : FINE : TDBN -:- train -:- epoch: 40, energy: -49533.35298064872
+Wed Nov 09 10:06:23 ICT 2016 : FINE : TDBN -:- train -:- epoch: 42, energy: -48870.856996731934
+Wed Nov 09 10:06:25 ICT 2016 : FINE : TDBN -:- train -:- epoch: 44, energy: -51090.75170453831
+Wed Nov 09 10:06:27 ICT 2016 : FINE : TDBN -:- train -:- epoch: 46, energy: -53405.58060948278
+Wed Nov 09 10:06:29 ICT 2016 : FINE : TDBN -:- train -:- epoch: 48, energy: -54097.711505720814
+Wed Nov 09 10:06:31 ICT 2016 : FINE : TDBN -:- train -:- epoch: 50, energy: -51837.84895580258
+Wed Nov 09 10:06:33 ICT 2016 : FINE : TDBN -:- train -:- epoch: 52, energy: -55143.295409480306
+Wed Nov 09 10:06:35 ICT 2016 : FINE : TDBN -:- train -:- epoch: 54, energy: -55254.581936662704
+Wed Nov 09 10:06:37 ICT 2016 : FINE : TDBN -:- train -:- epoch: 56, energy: -53452.39816710961
+Wed Nov 09 10:06:39 ICT 2016 : FINE : TDBN -:- train -:- epoch: 58, energy: -56523.70829791376
+Wed Nov 09 10:06:41 ICT 2016 : FINE : TDBN -:- train -:- epoch: 60, energy: -58056.95842711854
+Wed Nov 09 10:06:43 ICT 2016 : FINE : TDBN -:- train -:- epoch: 62, energy: -56148.45969780093
+Wed Nov 09 10:06:45 ICT 2016 : FINE : TDBN -:- train -:- epoch: 64, energy: -56862.22700520901
+Wed Nov 09 10:06:47 ICT 2016 : FINE : TDBN -:- train -:- epoch: 66, energy: -56144.67303194713
+Wed Nov 09 10:06:49 ICT 2016 : FINE : TDBN -:- train -:- epoch: 68, energy: -57429.5990549884
+Wed Nov 09 10:06:51 ICT 2016 : FINE : TDBN -:- train -:- epoch: 70, energy: -57419.04233238251
+Wed Nov 09 10:06:53 ICT 2016 : FINE : TDBN -:- train -:- epoch: 72, energy: -57113.87831370134
+Wed Nov 09 10:06:55 ICT 2016 : FINE : TDBN -:- train -:- epoch: 74, energy: -58167.53351678123
+Wed Nov 09 10:06:57 ICT 2016 : FINE : TDBN -:- train -:- epoch: 76, energy: -59933.453873261315
+Wed Nov 09 10:06:59 ICT 2016 : FINE : TDBN -:- train -:- epoch: 78, energy: -59376.084391717675
+Wed Nov 09 10:07:01 ICT 2016 : FINE : TDBN -:- train -:- epoch: 80, energy: -60818.99024468254
+Wed Nov 09 10:07:03 ICT 2016 : FINE : TDBN -:- train -:- epoch: 82, energy: -59154.9310167331
+Wed Nov 09 10:07:05 ICT 2016 : FINE : TDBN -:- train -:- epoch: 84, energy: -59721.06144416097
+Wed Nov 09 10:07:07 ICT 2016 : FINE : TDBN -:- train -:- epoch: 86, energy: -60106.42389423722
+Wed Nov 09 10:07:09 ICT 2016 : FINE : TDBN -:- train -:- epoch: 88, energy: -60876.20702656006
+Wed Nov 09 10:07:11 ICT 2016 : FINE : TDBN -:- train -:- epoch: 90, energy: -63061.52081883826
+Wed Nov 09 10:07:13 ICT 2016 : FINE : TDBN -:- train -:- epoch: 92, energy: -62614.23294946453
+Wed Nov 09 10:07:15 ICT 2016 : FINE : TDBN -:- train -:- epoch: 94, energy: -61337.15162755011
+Wed Nov 09 10:07:16 ICT 2016 : FINE : TDBN -:- train -:- epoch: 96, energy: -62290.67216064766
+Wed Nov 09 10:07:18 ICT 2016 : FINE : TDBN -:- train -:- epoch: 98, energy: -63959.742359526674
+Wed Nov 09 10:07:20 ICT 2016 : FINE : TDBN -:- train -:- epoch: 100, energy: -63959.9034278287
+Wed Nov 09 10:07:22 ICT 2016 : FINE : TDBN -:- train -:- epoch: 102, energy: -62692.32099073635
+Wed Nov 09 10:07:24 ICT 2016 : FINE : TDBN -:- train -:- epoch: 104, energy: -61175.82002561262
+Wed Nov 09 10:07:26 ICT 2016 : FINE : TDBN -:- train -:- epoch: 106, energy: -65398.82149164595
+Wed Nov 09 10:07:28 ICT 2016 : FINE : TDBN -:- train -:- epoch: 108, energy: -63945.55267405038
+Wed Nov 09 10:07:30 ICT 2016 : FINE : TDBN -:- train -:- epoch: 110, energy: -65412.88637647887
+Wed Nov 09 10:07:32 ICT 2016 : FINE : TDBN -:- train -:- epoch: 112, energy: -64964.5670510063
+Wed Nov 09 10:07:34 ICT 2016 : FINE : TDBN -:- train -:- epoch: 114, energy: -65900.54421786607
+Wed Nov 09 10:07:36 ICT 2016 : FINE : TDBN -:- train -:- epoch: 116, energy: -66460.6506401477
+Wed Nov 09 10:07:38 ICT 2016 : FINE : TDBN -:- train -:- epoch: 118, energy: -65222.095318856234
+Wed Nov 09 10:07:40 ICT 2016 : FINE : TDBN -:- train -:- epoch: 120, energy: -65719.14196059643
+Wed Nov 09 10:07:41 ICT 2016 : FINE : TDBN -:- train -:- epoch: 122, energy: -67211.92606272001
+Wed Nov 09 10:07:43 ICT 2016 : FINE : TDBN -:- train -:- epoch: 124, energy: -67384.46461536131
+Wed Nov 09 10:07:45 ICT 2016 : FINE : TDBN -:- train -:- epoch: 126, energy: -67626.2644108516
+Wed Nov 09 10:07:47 ICT 2016 : FINE : TDBN -:- train -:- epoch: 128, energy: -68085.21815441284
+Wed Nov 09 10:07:49 ICT 2016 : FINE : TDBN -:- train -:- epoch: 130, energy: -67037.09978271596
+Wed Nov 09 10:07:51 ICT 2016 : FINE : TDBN -:- train -:- epoch: 132, energy: -67624.85934103283
+Wed Nov 09 10:07:53 ICT 2016 : FINE : TDBN -:- train -:- epoch: 134, energy: -67246.45085897495
+Wed Nov 09 10:07:55 ICT 2016 : FINE : TDBN -:- train -:- epoch: 136, energy: -68794.53546771714
+Wed Nov 09 10:07:57 ICT 2016 : FINE : TDBN -:- train -:- epoch: 138, energy: -69655.93405747568
+Wed Nov 09 10:07:59 ICT 2016 : FINE : TDBN -:- train -:- epoch: 140, energy: -70669.56795609192
+Wed Nov 09 10:08:01 ICT 2016 : FINE : TDBN -:- train -:- epoch: 142, energy: -70126.40688292256
+Wed Nov 09 10:08:03 ICT 2016 : FINE : TDBN -:- train -:- epoch: 144, energy: -69098.21883377594
+Wed Nov 09 10:08:04 ICT 2016 : FINE : TDBN -:- train -:- epoch: 146, energy: -68351.06352892086
+Wed Nov 09 10:08:06 ICT 2016 : FINE : TDBN -:- train -:- epoch: 148, energy: -71125.50602605469
+Wed Nov 09 10:08:08 ICT 2016 : FINE : TDBN -:- train -:- epoch: 150, energy: -70972.71128745613
+Wed Nov 09 10:08:10 ICT 2016 : FINE : TDBN -:- train -:- epoch: 152, energy: -71139.9469922497
+Wed Nov 09 10:08:12 ICT 2016 : FINE : TDBN -:- train -:- epoch: 154, energy: -70020.03940910264
+Wed Nov 09 10:08:14 ICT 2016 : FINE : TDBN -:- train -:- epoch: 156, energy: -71642.8693458131
+Wed Nov 09 10:08:16 ICT 2016 : FINE : TDBN -:- train -:- epoch: 158, energy: -72170.26002624031
+Wed Nov 09 10:08:18 ICT 2016 : FINE : TDBN -:- train -:- epoch: 160, energy: -69529.85146638691
+Wed Nov 09 10:08:20 ICT 2016 : FINE : TDBN -:- train -:- epoch: 162, energy: -72505.09093178048
+Wed Nov 09 10:08:21 ICT 2016 : FINE : TDBN -:- train -:- epoch: 164, energy: -71997.09107272503
+Wed Nov 09 10:08:23 ICT 2016 : FINE : TDBN -:- train -:- epoch: 166, energy: -71113.13753288247
+Wed Nov 09 10:08:25 ICT 2016 : FINE : TDBN -:- train -:- epoch: 168, energy: -73683.98470931976
+Wed Nov 09 10:08:27 ICT 2016 : FINE : TDBN -:- train -:- epoch: 170, energy: -72826.57993311105
+Wed Nov 09 10:08:29 ICT 2016 : FINE : TDBN -:- train -:- epoch: 172, energy: -74499.84665877756
+Wed Nov 09 10:08:31 ICT 2016 : FINE : TDBN -:- train -:- epoch: 174, energy: -74473.24296426236
+Wed Nov 09 10:08:33 ICT 2016 : FINE : TDBN -:- train -:- epoch: 176, energy: -76201.58411239952
+Wed Nov 09 10:08:35 ICT 2016 : FINE : TDBN -:- train -:- epoch: 178, energy: -75886.62031151724
+Wed Nov 09 10:08:37 ICT 2016 : FINE : TDBN -:- train -:- epoch: 180, energy: -73843.31940410675
+Wed Nov 09 10:08:39 ICT 2016 : FINE : TDBN -:- train -:- epoch: 182, energy: -73579.90624892538
+Wed Nov 09 10:08:40 ICT 2016 : FINE : TDBN -:- train -:- epoch: 184, energy: -76569.37061377305
+Wed Nov 09 10:08:42 ICT 2016 : FINE : TDBN -:- train -:- epoch: 186, energy: -76019.48016904772
+Wed Nov 09 10:08:44 ICT 2016 : FINE : TDBN -:- train -:- epoch: 188, energy: -76373.42049553437
+Wed Nov 09 10:08:46 ICT 2016 : FINE : TDBN -:- train -:- epoch: 190, energy: -74655.59899631767
+Wed Nov 09 10:08:48 ICT 2016 : FINE : TDBN -:- train -:- epoch: 192, energy: -73076.0490728778
+Wed Nov 09 10:08:50 ICT 2016 : FINE : TDBN -:- train -:- epoch: 194, energy: -75876.31142957241
+Wed Nov 09 10:08:52 ICT 2016 : FINE : TDBN -:- train -:- epoch: 196, energy: -76711.23833235473
+Wed Nov 09 10:08:54 ICT 2016 : FINE : TDBN -:- train -:- epoch: 198, energy: -76049.34236136857
+Wed Nov 09 10:08:56 ICT 2016 : FINE : TDBN -:- train -:- epoch: 200, energy: -75267.0273568727
+Wed Nov 09 10:08:58 ICT 2016 : FINE : TDBN -:- train -:- epoch: 202, energy: -77017.84049371188
+Wed Nov 09 10:08:59 ICT 2016 : FINE : TDBN -:- train -:- epoch: 204, energy: -76003.73939085018
+Wed Nov 09 10:09:01 ICT 2016 : FINE : TDBN -:- train -:- epoch: 206, energy: -73807.52169569777
+Wed Nov 09 10:09:03 ICT 2016 : FINE : TDBN -:- train -:- epoch: 208, energy: -76185.39116825564
+Wed Nov 09 10:09:05 ICT 2016 : FINE : TDBN -:- train -:- epoch: 210, energy: -77104.00071881975
+Wed Nov 09 10:09:07 ICT 2016 : FINE : TDBN -:- train -:- epoch: 212, energy: -79560.68024062144
+Wed Nov 09 10:09:09 ICT 2016 : FINE : TDBN -:- train -:- epoch: 214, energy: -76611.05806499922
+Wed Nov 09 10:09:11 ICT 2016 : FINE : TDBN -:- train -:- epoch: 216, energy: -78523.17927347239
+Wed Nov 09 10:09:13 ICT 2016 : FINE : TDBN -:- train -:- epoch: 218, energy: -76016.74080852968
+Wed Nov 09 10:09:15 ICT 2016 : FINE : TDBN -:- train -:- epoch: 220, energy: -77577.84951486364
+Wed Nov 09 10:09:17 ICT 2016 : FINE : TDBN -:- train -:- epoch: 222, energy: -78251.20082192567
+Wed Nov 09 10:09:19 ICT 2016 : FINE : TDBN -:- train -:- epoch: 224, energy: -77466.41354121626
+Wed Nov 09 10:09:21 ICT 2016 : FINE : TDBN -:- train -:- epoch: 226, energy: -77769.49916013225
+Wed Nov 09 10:09:22 ICT 2016 : FINE : TDBN -:- train -:- epoch: 228, energy: -77668.58707965582
+Wed Nov 09 10:09:24 ICT 2016 : FINE : TDBN -:- train -:- epoch: 230, energy: -77940.93343135464
+Wed Nov 09 10:09:26 ICT 2016 : FINE : TDBN -:- train -:- epoch: 232, energy: -78661.44940385695
+Wed Nov 09 10:09:28 ICT 2016 : FINE : TDBN -:- train -:- epoch: 234, energy: -79451.47412683401
+Wed Nov 09 10:09:30 ICT 2016 : FINE : TDBN -:- train -:- epoch: 236, energy: -77383.01287779323
+Wed Nov 09 10:09:32 ICT 2016 : FINE : TDBN -:- train -:- epoch: 238, energy: -80588.17150392858
+Wed Nov 09 10:09:34 ICT 2016 : FINE : TDBN -:- train -:- epoch: 240, energy: -81039.29446575836
+Wed Nov 09 10:09:36 ICT 2016 : FINE : TDBN -:- train -:- epoch: 242, energy: -79659.09001348108
+Wed Nov 09 10:09:38 ICT 2016 : FINE : TDBN -:- train -:- epoch: 244, energy: -81431.67285221817
+Wed Nov 09 10:09:40 ICT 2016 : FINE : TDBN -:- train -:- epoch: 246, energy: -78833.57486067424
+Wed Nov 09 10:09:41 ICT 2016 : FINE : TDBN -:- train -:- epoch: 248, energy: -77885.24728407775
+Wed Nov 09 10:09:43 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 0
+Wed Nov 09 10:10:07 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 1
+Wed Nov 09 10:10:29 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 2
+Wed Nov 09 10:10:51 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 3
+Wed Nov 09 10:11:13 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 4
+Wed Nov 09 10:11:34 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 5
+Wed Nov 09 10:11:56 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 6
+Wed Nov 09 10:12:18 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 7
+Wed Nov 09 10:12:46 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 8
+Wed Nov 09 10:13:10 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 9
+Wed Nov 09 10:13:31 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 10
+Wed Nov 09 10:13:52 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 11
+Wed Nov 09 10:14:15 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 12
+Wed Nov 09 10:14:37 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 13
+Wed Nov 09 10:14:59 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 14
+Wed Nov 09 10:15:21 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 15
+Wed Nov 09 10:15:42 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 16
+Wed Nov 09 10:16:04 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 17
+Wed Nov 09 10:16:26 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 18
+Wed Nov 09 10:16:48 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 19
+Wed Nov 09 10:17:09 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 20
+Wed Nov 09 10:17:31 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 21
+Wed Nov 09 10:17:52 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 22
+Wed Nov 09 10:18:14 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 23
+Wed Nov 09 10:18:36 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 24
+Wed Nov 09 10:19:00 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 25
+Wed Nov 09 10:19:29 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 26
+Wed Nov 09 10:19:52 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 27
+Wed Nov 09 10:20:13 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 28
+Wed Nov 09 10:20:35 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 29
+Wed Nov 09 10:20:56 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 30
+Wed Nov 09 10:21:18 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 31
+Wed Nov 09 10:21:40 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 32
+Wed Nov 09 10:22:01 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 33
+Wed Nov 09 10:22:23 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 34
+Wed Nov 09 10:22:44 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 35
+Wed Nov 09 10:23:06 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 36
+Wed Nov 09 10:23:27 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 37
+Wed Nov 09 10:23:52 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 38
+Wed Nov 09 10:24:17 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 39
+Wed Nov 09 10:24:42 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 40
+Wed Nov 09 10:25:06 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 41
+Wed Nov 09 10:25:29 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 42
+Wed Nov 09 10:25:51 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 43
+Wed Nov 09 10:26:15 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 44
+Wed Nov 09 10:26:40 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 45
+Wed Nov 09 10:27:06 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 46
+Wed Nov 09 10:27:30 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 47
+Wed Nov 09 10:27:52 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 48
+Wed Nov 09 10:28:13 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 49
+Wed Nov 09 10:28:36 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 50
+Wed Nov 09 10:28:58 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 51
+Wed Nov 09 10:29:20 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 52
+Wed Nov 09 10:29:42 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 53
+Wed Nov 09 10:30:04 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 54
+Wed Nov 09 10:30:26 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 55
+Wed Nov 09 10:30:48 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 56
+Wed Nov 09 10:31:10 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 57
+Wed Nov 09 10:31:32 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 58
+Wed Nov 09 10:31:54 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 59
+Wed Nov 09 10:32:17 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 60
+Wed Nov 09 10:32:41 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 61
+Wed Nov 09 10:33:03 ICT 2016 : FINE : TDBN -:- train2 -:- epoch 62

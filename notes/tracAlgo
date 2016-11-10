@@ -1,0 +1,43 @@
+
+void train():
+	hUpdate(true):
+	    hBias.sendUp();
+        vhEdges.sendUp();
+        hiddenLayer.update();
+        if(sample) hiddenLayer.sample();
+
+    edgesCalc(lrate / batchsz):
+        vhEdges.calc(rate);
+        vBias.calc(rate);
+        hBias.calc(rate);
+
+	gibbsSampling(1, true, false):
+	    for(int i = 0; i < sample; i++){
+    		if(updateHiddenFirst){
+    		    hUpdate(true);
+    		    vUpdate(true);
+    		}else{
+    			vUpdate(true);
+    			hUpdate(true);
+    		}
+    	}
+    	if(lastDeterministic){
+    		if(updateHiddenFirst){
+    			hUpdate(false);
+    			vUpdate(false);
+    		}else{
+    			vUpdate(false);
+    			hUpdate(false);
+    		}
+    	}
+	edgesCalc(- lrate / batchsz):
+	    vhEdges.calc(rate);
+        vBias.calc(rate);
+        hBias.calc(rate);
+	update():
+	    batchcnt++;
+        if(batchcnt == batchsz){
+            edgesUpdate(mom);
+            batchcnt = 0;
+        }
+}

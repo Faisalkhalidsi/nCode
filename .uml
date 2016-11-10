@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="1112.0" y="1424.0">com</node>
+    <node x="1038.0" y="1007.0">relayer</node>
+    <node x="405.0" y="1424.0">netscape</node>
+    <node x="870.0" y="1007.0">bilayer</node>
+    <node x="1433.0" y="1424.0">sun</node>
+    <node x="446.0" y="751.0">demo</node>
+    <node x="890.0" y="751.0">layer</node>
+    <node x="542.0" y="0.0">PlayerBone</node>
+    <node x="1032.0" y="1150.0">edge</node>
+    <node x="1274.0" y="1424.0">java</node>
+    <node x="945.0" y="1424.0">javax</node>
+    <node x="732.0" y="1150.0">edgeLayer</node>
+    <node x="772.0" y="1424.0">javafx</node>
+    <node x="1117.0" y="0.0">TDBN</node>
+    <node x="0.0" y="0.0">RBM</node>
+    <node x="1334.0" y="1150.0">PlayerSkel</node>
+    <node x="410.0" y="1150.0">boneGroup</node>
+    <node x="598.0" y="1424.0">oracle</node>
+    <node x="1590.0" y="1424.0">org</node>
+    <node x="86.5" y="499.0">CRBM</node>
+    <node x="1233.0" y="751.0">bone</node>
+    <node x="204.0" y="1424.0">META-INF</node>
+    <node x="0.0" y="1498.0">jdk</node>
+    <node x="72.75" y="751.0">node</node>
+    <node x="0.0" y="1424.0">processing</node>
+    <node x="0.0" y="1150.0">dataset</node>
+    <node x="204.0" y="986.0">renode</node>
+    <node x="0.0" y="997.5">binode</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="relayer" target="layer">
+      <point x="0.0" y="-36.5" />
+      <point x="1113.0" y="982.0" />
+      <point x="1097.75" y="982.0" />
+      <point x="69.25" y="103.0" />
+    </edge>
+    <edge source="binode" target="node">
+      <point x="0.0" y="-48.0" />
+      <point x="92.0" y="961.0" />
+      <point x="135.0" y="961.0" />
+      <point x="-62.25" y="92.5" />
+    </edge>
+    <edge source="CRBM" target="RBM">
+      <point x="0.0" y="-103.5" />
+      <point x="0.0" y="224.5" />
+    </edge>
+    <edge source="renode" target="node">
+      <point x="0.0" y="-59.5" />
+      <point x="302.5" y="961.0" />
+      <point x="259.5" y="961.0" />
+      <point x="62.25" y="92.5" />
+    </edge>
+    <edge source="bilayer" target="layer">
+      <point x="0.0" y="-36.5" />
+      <point x="944.0" y="982.0" />
+      <point x="959.25" y="982.0" />
+      <point x="-69.25" y="103.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.9432449903038137" x="854.6402138157896" y="323.4751233552632" />
+  <SelectedNodes>
+    <node>PlayerBone</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

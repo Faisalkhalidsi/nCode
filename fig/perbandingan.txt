@@ -1,0 +1,30 @@
+Tue Jan 20 12:10:47 ICT 2015 : FINE : TDBN -:- <init> -:- Initialize RBMs...!
+Tue Jan 20 12:10:47 ICT 2015 : INFO : RBM -:- <init> -:- vNum: 21, vReal: true, hNum: 30, hReal: false
+Tue Jan 20 12:10:47 ICT 2015 : INFO : RBM -:- <init> -:- vNum: 12, vReal: true, hNum: 30, hReal: false
+Tue Jan 20 12:10:47 ICT 2015 : INFO : RBM -:- <init> -:- vNum: 12, vReal: true, hNum: 30, hReal: false
+Tue Jan 20 12:10:47 ICT 2015 : INFO : RBM -:- <init> -:- vNum: 7, vReal: true, hNum: 30, hReal: false
+Tue Jan 20 12:10:47 ICT 2015 : INFO : RBM -:- <init> -:- vNum: 7, vReal: true, hNum: 30, hReal: false
+Tue Jan 20 12:10:47 ICT 2015 : FINE : TDBN -:- <init> -:- Initialize CRBM...!
+Tue Jan 20 12:10:47 ICT 2015 : INFO : RBM -:- <init> -:- vNum: 150, vReal: false, hNum: 15, hReal: false
+
+
+
+
+Tue Jan 20 13:14:45 ICT 2015 : FINE : demo -:- setup -:- Start the program!.... is net null?: true
+Tue Jan 20 13:14:45 ICT 2015 : FINE : demo -:- setup -:- amcBase: file:/D:/M.I.K.Semangat/bismillah_thesis/backup_tdbnDemo_1Sep2014/tdbnDemo/out/production/tdbnDemo/data/05_10.amc
+Tue Jan 20 13:14:46 ICT 2015 : FINE : TDBN -:- <init> -:- files.size():10
+Tue Jan 20 13:14:48 ICT 2015 : FINE : TDBN -:- <init> -:- nBodyParts: 2
+Tue Jan 20 13:14:48 ICT 2015 : FINE : TDBN -:- <init> -:- Initialize RBMs...!
+Tue Jan 20 13:14:48 ICT 2015 : INFO : RBM -:- <init> -:- vNum: 45, vReal: true, hNum: 30, hReal: false
+Tue Jan 20 13:14:48 ICT 2015 : INFO : RBM -:- <init> -:- vNum: 14, vReal: true, hNum: 30, hReal: false
+Tue Jan 20 13:14:48 ICT 2015 : FINE : TDBN -:- <init> -:- Initialize CRBM...!
+Tue Jan 20 13:14:48 ICT 2015 : INFO : RBM -:- <init> -:- vNum: 60, vReal: false, hNum: 15, hReal: false
+Tue Jan 20 13:14:50 ICT 2015 : FINE : TDBN -:- train -:- epoch: 0, energy: -339.7231273625186
+
+
+Tue Jan 20 13:15:56 ICT 2015 : FINE : TDBN -:- <init> -:- Initialize RBMs...!
+Tue Jan 20 13:15:56 ICT 2015 : INFO : RBM -:- <init> -:- vNum: 21, vReal: true, hNum: 30, hReal: false
+Tue Jan 20 13:15:56 ICT 2015 : INFO : RBM -:- <init> -:- vNum: 24, vReal: true, hNum: 30, hReal: false
+Tue Jan 20 13:15:56 ICT 2015 : INFO : RBM -:- <init> -:- vNum: 14, vReal: true, hNum: 30, hReal: false
+Tue Jan 20 13:15:56 ICT 2015 : FINE : TDBN -:- <init> -:- Initialize CRBM...!
+Tue Jan 20 13:15:56 ICT 2015 : INFO : RBM -:- <init> -:- vNum: 90, vReal: false, hNum: 15, hReal: false
